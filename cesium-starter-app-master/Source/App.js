@@ -58,7 +58,7 @@ Polygon.add({
 
 
 //kml読み込み
-viewer.dataSources.add(Cesium.KmlDataSource.load('http://nbayashi.github.io/ikom2/cesium-starter-app-master/Source/生駒サンプル.kml'));
+viewer.dataSources.add(Cesium.KmlDataSource.load('https://nbayashi.github.io/ikom2/cesium-starter-app-master/Source/生駒サンプル.kml'));
 
 
 //視点の変更
